@@ -1,3 +1,3 @@
 finalurl
 ========
-[finalurl(http://finalurl.appspot.com)
+[finalurl](http://finalurl.appspot.com)
